@@ -1,0 +1,7 @@
+{
+  "name": "INVITATION-GATEWAY",
+  "port": "127.0.0.1:3000",
+  "rpc_auth": "127.0.0.1:3001",
+	"rpc_product": "127.0.0.1:3002",
+  "rpc_order": "127.0.0.1:3003"
+}
